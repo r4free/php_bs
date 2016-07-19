@@ -14,6 +14,10 @@
         <script src="js/scripts.js" type="text/javascript"></script>
         
         <style>
+        
+        *{
+            border : 1px black;
+        }
            
             
         </style>
